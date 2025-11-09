@@ -1,0 +1,5 @@
+{
+  "name": "Local Business Scraper",
+  "description": "An AI-powered tool to find and extract detailed information about local businesses. Simply enter a city, business category, and select the details you need to get a comprehensive list.",
+  "requestFramePermissions": []
+}
